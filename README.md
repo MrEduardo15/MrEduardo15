@@ -12,19 +12,34 @@ Utilizo o GitHub para compartilhar meus projetos acadêmicos, praticar conceitos
 
 ## 🛠️ Tecnologias e ferramentas
 
-- **Linguagens:** Java, Python, JavaScript e SQL
-- **Desenvolvimento Web:** HTML, CSS e React
-- **Banco de Dados:** PostgreSQL e integração com aplicações
-- **Dados e monitoramento:** Grafana, Google Sheets e ferramentas de análise de dados
-- **Estudos:** Estruturas de Dados, Programação Orientada a Objetos e Machine Learning
+### 💻 Linguagens & Web
+<img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" />
+
+### 🗄️ Banco de Dados, Dados & Monitoramento
+<img src="https://shields.io" alt="SQL" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Grafana" /> <img src="https://shields.io" alt="Google Sheets" />
+
+---
 
 ## 📂 Projetos
 
 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada na Computação, incluindo aplicações em Java, exercícios de estruturas de dados, desenvolvimento web e estudos relacionados à análise de dados e Machine Learning.
 
+---
+
 ## 🎯 Objetivo
 
 Continuar evoluindo como profissional de tecnologia, aprofundar meus conhecimentos e desenvolver soluções eficientes que gerem impacto real.
+
+---
+
+## 📊 Estatísticas e Contribuições
+
+<table>
+  <tr>
+    <td><img src="https://vercel.app" height="150px" alt="Estatísticas do GitHub" /></td>
+    <td><img src="https://vercel.app" height="150px" alt="Linguagens mais usadas" /></td>
+  </tr>
+</table>
 
 ---
 
